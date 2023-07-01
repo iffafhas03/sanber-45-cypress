@@ -1,0 +1,19 @@
+{
+  "name": "sanber-45-cypress",
+  "version": "1.0.0",
+  "description": "latihan cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "open": "npx cypress open"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "iffa",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.00.0",
+    "dot-env": "^0.0.1"
+  }
+}

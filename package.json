@@ -13,7 +13,15 @@
   "author": "iffa",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^12.00.0",
+    "cypress": "^10.11.0",
     "dot-env": "^0.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iffafhas03/sanber-45-cypress.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iffafhas03/sanber-45-cypress/issues"
+  },
+  "homepage": "https://github.com/iffafhas03/sanber-45-cypress#readme"
 }
